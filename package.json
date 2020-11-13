@@ -1,0 +1,26 @@
+{
+  "name": "pup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-raidlova/amazon-tracking-puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t-raidlova/amazon-tracking-puppeteer/issues"
+  },
+  "homepage": "https://github.com/t-raidlova/amazon-tracking-puppeteer#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cron": "^1.8.2",
+    "nodemailer": "^6.4.16",
+    "puppeteer": "^5.4.1"
+  }
+}
